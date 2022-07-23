@@ -10,7 +10,7 @@
 # User Settings ################################################################
 
 type=("daily" "weekly" "monthly" "yearly")    # array with search strings
-keep=7                                        #ammount of files to keep
+keep=7                                        # ammount of files to keep
 
 ################################################################################
 
